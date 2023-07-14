@@ -2,12 +2,12 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    fontFamily: { sans: ["Poppins", "sans-serif"] },
+    fontFamily: { sans: ["Poppins"] },
     extend: {
       colors: {
-        background: "#DBD3C9",
-        primary: "#B4CEB3",
-        primary_variant: "#88A0A8",
+        background: "#ededed",
+        primary: "#95d4e8",
+        primary_varient: "#1f29e0",
         attention: "#546A76",
       },
     },
