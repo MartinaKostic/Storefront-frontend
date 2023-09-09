@@ -9,6 +9,6 @@ Around 6 days total
 
 I found the Medusa integration the most challenging. I spent a lot of time studying the documentation in order to understand what the Medusa admin actually is, how the frontend and backend are connected and how to connect and set up everything. I would say that exact thing is what im the most proud of. 
 
-##Project structure
+## Project structure
 
 I decided to separate all of the pages into its components. For the Product component i decided to also add Product Card component to avoid the reduredundance. 
